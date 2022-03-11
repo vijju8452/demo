@@ -1,0 +1,8 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(C:\xampp\htdocs\demoapp\/attachments/1708_test_L.): failed to open stream: Permission denied C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\xampp\tmp\php3A65.tmp' to 'C:\xampp\htdocs\demoapp\/attachments/1708_test_L.' C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(C:\xampp\htdocs\demoapp\/attachments/1708_test_B.): failed to open stream: Permission denied C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\xampp\tmp\php3A66.tmp' to 'C:\xampp\htdocs\demoapp\/attachments/1708_test_B.' C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(C:\xampp\htdocs\demoapp\/attachments/1708_test_H.): failed to open stream: Permission denied C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
+ERROR - 2018-02-16 11:21:44 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\xampp\tmp\php3A67.tmp' to 'C:\xampp\htdocs\demoapp\/attachments/1708_test_H.' C:\xampp\htdocs\demoapp\application\controllers\api\web\v1\production\TransactionsAjax.php 258
